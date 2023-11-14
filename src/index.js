@@ -1,13 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import Hobbies from './Hobbies';
+import DynamicLogin from './DynamicLogin';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Hobbies />
+    <DynamicLogin />
   </React.StrictMode>
 );
 

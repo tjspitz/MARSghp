@@ -51,6 +51,7 @@ code {
   color: white;
 }
 
+/* was .btn-list before 11/9/23 */
 .list {
   display: flex;
   justify-content: space-around;
@@ -69,6 +70,7 @@ code {
   }
 }
 
+/* ======== PERSISTENT CHANGES ======== */
 .content,
 .content-light {
   display: flex;
@@ -88,6 +90,16 @@ code {
   border-radius: 2rem;
 }
 
+/* ======== 11_14_23 TEMP ASSIGNMENT ========  */
+.success {
+  background-color: #006400;
+}
+
+.fail {
+  background-color: #8b0000;
+}
+
+/* ======== 11_9_23 TEMP ASSIGNMENT ========  */
 .capitalize {
   text-transform: capitalize;
 }
@@ -131,4 +143,31 @@ input[type="checkbox"] {
 .btn-light {
   background-color: var(--lightBtnBg);
   color: var(--lightBtnText);
+}
+
+/* ======== 11_7_23 TEMP ASSIGNMENT ======== */
+input {
+  background-color: rgb(255, 255, 255);
+  margin-left: 1rem;
+  margin-right: 1rem;
+  padding: 0.5rem 1rem;
+  border: 0.3rem solid #9e2fff;
+  border-radius: 2rem;
+}
+
+.negative {
+  border-color: #ff0000;
+  color: #ff0000;
+  min-width: 20vw;
+}
+
+/* ======== 11_7_23 TEMP ASSIGNMENT ======== */
+.inputs,
+.btn-list {
+  display: flex;
+  justify-content: space-around;
+}
+
+.inputs {
+  flex-direction: column;
 }
