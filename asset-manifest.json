@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/MARSghp/static/css/main.063ada0a.css",
-    "main.js": "/MARSghp/static/js/main.346c9e56.js",
+    "main.css": "/MARSghp/static/css/main.9accd944.css",
+    "main.js": "/MARSghp/static/js/main.7821a37b.js",
     "static/js/787.27810f3d.chunk.js": "/MARSghp/static/js/787.27810f3d.chunk.js",
     "index.html": "/MARSghp/index.html",
-    "main.063ada0a.css.map": "/MARSghp/static/css/main.063ada0a.css.map",
-    "main.346c9e56.js.map": "/MARSghp/static/js/main.346c9e56.js.map",
+    "main.9accd944.css.map": "/MARSghp/static/css/main.9accd944.css.map",
+    "main.7821a37b.js.map": "/MARSghp/static/js/main.7821a37b.js.map",
     "787.27810f3d.chunk.js.map": "/MARSghp/static/js/787.27810f3d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.063ada0a.css",
-    "static/js/main.346c9e56.js"
+    "static/css/main.9accd944.css",
+    "static/js/main.7821a37b.js"
   ]
 }
