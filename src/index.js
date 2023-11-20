@@ -1,13 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
-import AuthApp from './AuthApp';
+import './styles/index.css';
+import './styles/App.css';
+import Home from './Home';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    < AuthApp />
+    <Home />
   </React.StrictMode>
 );
 
