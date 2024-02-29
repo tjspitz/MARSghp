@@ -6,7 +6,7 @@ import LoginDemo from './components/LoginDemo';
 
 const router = createBrowserRouter([
   {
-    path: '/',
+    path: '/MARSghp',
     element: <LoginDemo />,
   },
 ]);
