@@ -40,6 +40,7 @@ const SelfDestruct = ({
         />
       </Modal.Body>
       <Modal.Footer>
+        <p className="fst-italic">Sorry, could not resist a little fun. Obviously will not be in production. Or will it...?</p>
         <Button
           variant="outline-dark"
           onClick={handleClose}
