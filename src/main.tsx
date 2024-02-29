@@ -6,7 +6,7 @@ import LoginDemo from './components/LoginDemo';
 
 const router = createBrowserRouter([
   {
-    path: '/login-demo',
+    path: '/',
     element: <LoginDemo />,
   },
 ]);
